@@ -8,3 +8,4 @@ Navigate through the intricacies of profit distribution, gaining a holistic unde
 
 "Profitability Analysis" goes beyond traditional reporting, offering a tailored experience that suits your unique business needs. Uncover the strategies that maximize returns, and gain a competitive edge in today's dynamic market landscape. Elevate your financial analysis with this comprehensive and insightful Power BI report, turning data into actionable intelligence for sustained success.
 
+https://github.com/yogisaputratanjung/Profitability-Analysis/assets/109405710/3847611e-e2f5-458b-9798-70e88b741f20
